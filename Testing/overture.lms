@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sequence saveFileVersion="11" author="Daddy Ethan" createdAt="3/25/2022 10:39:33 AM" musicFilename="01 Overture.m4a">
+	<channels>
+		<channel name="Channel 1" color="12615744" centiseconds="17703" savedIndex="0"/>
+	</channels>
+	<timingGrids>
+		<timingGrid saveID="0" type="freeform">
+			<timing centisecond="0"/>
+		</timingGrid>
+	</timingGrids>
+	<tracks>
+		<track totalCentiseconds="17703" timingGrid="0">
+			<channels>
+				<channel savedIndex="0"/>
+			</channels>
+			<loopLevels/>
+		</track>
+	</tracks>
+	<animation rows="40" columns="60" image=""/>
+</sequence>
